@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jaspervanderklis.github.io/pianolessonsnewcross/</loc>
+    <loc>http://localhost:1313/pianolessonsnewcross/posts/my-first-post/</loc>
     <lastmod>2025-08-29T17:07:50+01:00</lastmod>
   </url><url>
-    <loc>https://jaspervanderklis.github.io/pianolessonsnewcross/posts/</loc>
+    <loc>http://localhost:1313/pianolessonsnewcross/</loc>
     <lastmod>2025-08-29T17:07:50+01:00</lastmod>
   </url><url>
-    <loc>https://jaspervanderklis.github.io/pianolessonsnewcross/categories/</loc>
+    <loc>http://localhost:1313/pianolessonsnewcross/posts/</loc>
+    <lastmod>2025-08-29T17:07:50+01:00</lastmod>
   </url><url>
-    <loc>https://jaspervanderklis.github.io/pianolessonsnewcross/tags/</loc>
+    <loc>http://localhost:1313/pianolessonsnewcross/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pianolessonsnewcross/tags/</loc>
   </url>
 </urlset>
