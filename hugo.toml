@@ -2,3 +2,8 @@ baseURL = 'https://jaspervanderklis.github.io/pianolessonsnewcross/'
 languageCode = 'en-us'
 title = 'Piano Lessons New Cross'
 theme = 'ananke'
+enableRobotsTXT = true
+
+[params]
+  description = "Piano lessons in New Cross, London, UK"
+  author = "Piano Lessons New Cross"
