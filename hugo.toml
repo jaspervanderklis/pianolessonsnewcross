@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jaspervanderklis.github.io/pianolessonsnewcross/'
 languageCode = 'en-us'
 title = 'Piano Lessons New Cross'
 theme = 'ananke'
