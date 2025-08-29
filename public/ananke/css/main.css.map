@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/mnt/d/pianolessonsnewcross/quickstart",
+	"sourceRoot": "/mnt/d/pianolessonsnewcross",
 	"sources": [
 		"ananke/css/main.css"
 	],
