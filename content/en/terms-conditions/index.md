@@ -20,7 +20,7 @@ menu: {main: {weight: 40}}
 
 ## 2. Lesson Fees and Payment
 
-Fees are set in accordance with the [Independent Society of Musicians Median 2025 hourly rate for Inner London](https://www.ism.org/advice/music-teachers-fees-survey-results-2024-2025/). As of September 2025, our fees for piano lesson can be found [here](./lessons/#td-block-2).
+Fees are set in accordance with the [Independent Society of Musicians Median 2025 hourly rate for Inner London](https://www.ism.org/advice/music-teachers-fees-survey-results-2024-2025/). Our fees can be found [here](./lessons/#td-block-2).
 
 **Payment Schedule:** Lesson fees are payable in advance as agreed. Payment is due by the lesson or should take place immediately after.
 
