@@ -2,17 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pianolessonsnewcross/posts/my-first-post/</loc>
-    <lastmod>2025-08-29T17:07:50+01:00</lastmod>
+    <loc>http://192.168.1.42:1313/about-us/</loc>
   </url><url>
-    <loc>http://localhost:1313/pianolessonsnewcross/</loc>
-    <lastmod>2025-08-29T17:07:50+01:00</lastmod>
+    <loc>http://192.168.1.42:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/pianolessonsnewcross/posts/</loc>
-    <lastmod>2025-08-29T17:07:50+01:00</lastmod>
+    <loc>http://192.168.1.42:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/pianolessonsnewcross/categories/</loc>
+    <loc>http://192.168.1.42:1313/lessons/</loc>
   </url><url>
-    <loc>http://localhost:1313/pianolessonsnewcross/tags/</loc>
+    <loc>http://192.168.1.42:1313/</loc>
+  </url><url>
+    <loc>http://192.168.1.42:1313/terms-conditions/</loc>
+  </url><url>
+    <loc>http://192.168.1.42:1313/tags/</loc>
   </url>
 </urlset>
