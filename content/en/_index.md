@@ -15,7 +15,7 @@ title: Piano Lessons New Cross
 
 <i class="fa-solid fa-web-awesome"></i> We offer bespoke lesson plans as well as exam-oriented tuition
 
-<i class="fa-solid fa-location-dot"></i> <a href="https://maps.app.goo.gl/t3pGWQa1wtYfYhnL6"> Just a ten-minute walk from New Cross and New Cross Gate stations</a>
+<i class="fa-solid fa-location-dot"></i> <a href="https://maps.app.goo.gl/FL6JXCn4PZL2WGvu5"> Just a ten-minute walk from New Cross and New Cross Gate stations</a>
 {{% /blocks/lead %}}
 
 
