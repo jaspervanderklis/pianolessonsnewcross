@@ -10,11 +10,11 @@ menu: {main: {weight: 20}}
 
 {{% blocks/lead %}}
 
-<i class="fa-solid fa-gauge-high"></i> We have over ten years of experience teaching piano.
+<i class="fa-solid fa-gauge-high"></i> We have over ten years of experience teaching piano
 
-<i class="fa-solid fa-people-group"></i> We teach students of all ages, from absolute beginners to diploma level musicians. 
+<i class="fa-solid fa-people-group"></i> We teach students of all ages, from absolute beginners to diploma level musicians
 
-<i class="fa-solid fa-web-awesome"></i> We are also experienced accompanists and have accompanied instrumentalists and singers from ABRSM Grade 1 exams all the way to Postgraduate final recitals.
+<i class="fa-solid fa-web-awesome"></i> We are also experienced accompanists and have accompanied instrumentalists and singers from ABRSM Grade 1 exams all the way to Postgraduate final recitals
 
 <i class="fa-solid fa-envelope"></i> [Get in touch to book your lesson](./contact). The following options are available:
 
