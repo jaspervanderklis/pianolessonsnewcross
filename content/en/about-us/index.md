@@ -4,7 +4,7 @@ linkTitle: About us
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="About us" image_anchor="center" height="auto" %}}
+{{% blocks/cover image_anchor="center" height="auto" %}}
 
 {.mt-5}
 
@@ -12,13 +12,13 @@ menu: {main: {weight: 10}}
 
 {{% blocks/lead %}}
 
-Jasper van der Klis
+About us
 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
-Jasper van der Klis studied piano performance with Sebastián Colombo and Alan Weiss at the Utrecht Conservatoire (BMus, 2015) and with Peter Bithell at the Guildhall School of Music & Drama in London (MPerf, 2017). At Guildhall School he also completed doctoral research on Busoni's interpretative editions of Bach's keyboard works (DMus, 2022; supervisors Professor Sir Barry Ife and Dr Christopher Suckling). His studies in London were supported by the Guildhall School Trust and the Prins Bernhard Cultuurfonds.
+**Jasper van der Klis** studied piano performance with Sebastián Colombo and Alan Weiss at the Utrecht Conservatoire (BMus, 2015) and with Peter Bithell at the Guildhall School of Music & Drama in London (MPerf, 2017). At Guildhall School he also completed doctoral research on Busoni's interpretative editions of Bach's keyboard works (DMus, 2022; supervisors Professor Sir Barry Ife and Dr Christopher Suckling). His studies in London were supported by the Guildhall School Trust and the Prins Bernhard Cultuurfonds.
 
 Jasper was a postdoctoral researcher on the Leverhulme Trust/Research England project [Texting Scarlatti](https://www.gsmd.ac.uk/textingscarlatti) (2023-2025), which charted the spread of Scarlatti's music by establishing the stemma of all *c*3,200 surviving eighteenth-century manuscript and printed copies of his keyboard sonatas. In this capacity, he was mainly involved with data collection and analysis and oversaw the collation efforts of 35 citizen scientists. He co-edited issue 23 of *Sounding Board* (British Harpsichord Society) and is co-authoring a chapter of the forthcoming *Cambridge Companion to Domenico Scarlatti* (Cambridge University Press, 2026) which is dedicated to the findings of the project.
 
@@ -35,15 +35,9 @@ Jasper has performed across Europe as a soloist and with various ensembles. Duri
 
 {{% /blocks/section %}}
 
-{{% blocks/lead %}}
-
-Chiara Naldi
-
-{{% /blocks/lead %}}
-
 {{% blocks/section %}}
 
-Chiara Naldi studied piano performance at the 'G. B. Martini' Conservatoire in Bologna under Mauro Landi, earning a Master's Degree with Honours. Concurrently, she also studied harpsichord and fortepiano with Silvia Rambaldi and Carlo Mazzoli.
+**Chiara Naldi** studied piano performance at the 'G. B. Martini' Conservatoire in Bologna under Mauro Landi, earning a Master's Degree with Honours. Concurrently, she also studied harpsichord and fortepiano with Silvia Rambaldi and Carlo Mazzoli.
 
 She completed a Postgraduate Advanced Diploma at Trinity Laban Conservatoire of Music and Dance with Sergio de Simone, supported by a Trinity College Scholarship and the Henry Wood Trust. She studied improvisation with Douglas Finch and was joint winner of the Gladys Puttick Improvisation Competition in 2018.
 
