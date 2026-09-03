@@ -55,8 +55,8 @@ Longer lessons by arrangement
 We also offer accompaniment services as well as aural test training for exams (such as ABRSM or Trinity). Please [get in touch](./contact) to see if we are able to make your exam date.
 
 **Rates**\
-Rehearsal/aural training fee: £50 per hour (at our studio)\
-Exam fee: starting from £45 (depending on grade and location)
+Rehearsal/aural training fee: £55 per hour (at our studio)\
+Exam fee: starting from £50 (depending on grade and location)
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
