@@ -106,7 +106,7 @@ Our 2025-2026 term dates are as follows:
 Piano Lessons New Cross\
 pianolessonsnewcross@gmail.com
 
-*Last updated: 31 August 2025*
+*Last updated: September 2026*
 
 **By booking lessons, students (or parents/guardians of students under 18) acknowledge they have read, understood, and agree to be bound by these terms and conditions.**
 

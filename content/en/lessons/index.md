@@ -25,9 +25,9 @@ menu: {main: {weight: 20}}
 We offer consultation lessons as well as exam preparation lessons.
 
 **Rates**\
-30 minutes: £30\
-45 minutes: £45\
-60 minutes: £55
+30 minutes: £40\
+45 minutes: £55\
+60 minutes: £65
 
 Longer lessons by arrangement
 
@@ -38,13 +38,13 @@ We offer both weekly and fortnightly lesson plans at competitive rates.
 
 **Rates**\
 Weekly lessons:\
-30 minutes: £28\
-45 minutes: £42\
-60 minutes: £50
+30 minutes: £32\
+45 minutes: £46\
+60 minutes: £55
 
 Fortnightly lessons (once every 14 days):\
-45 minutes: £43\
-60 minutes: £52.50
+45 minutes: £48\
+60 minutes: £58
 
 Longer lessons by arrangement
 
